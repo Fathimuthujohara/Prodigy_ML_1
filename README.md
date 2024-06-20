@@ -1,4 +1,4 @@
-# # Customer Segmentation with K-Means Clustering
+## Customer Segmentation with K-Means Clustering
 
 This project demonstrates how to group customers of a retail store based on their purchase history using the K-means clustering algorithm. By understanding customer segments, businesses can tailor marketing strategies, improve customer satisfaction, and boost sales.
 
